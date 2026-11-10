@@ -1,155 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:120C05,35:4A2700,70:B87916,100:FFD700&text=DIWALI%20CINEMATIC&fontSize=43&fontColor=FFF4D0&fontAlignY=38&desc=A%20Procedural%20Festival%20Film%20Engine&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:080808,30:241400,65:805500,100:D4AF37&text=DIWALI%20CINEMATIC&fontSize=48&fontColor=FFF4D0&fontAlignY=36&desc=THE%20ART%20OF%20PROCEDURAL%20ENGINEERING&descAlignY=57&descSize=15&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://img.shields.io/badge/CREATED%20BY-HM%20BHOLA-DAA520?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PROJECT-PROCEDURAL%20ART-8A2BE2?style=for-the-badge" />
+# 🪔 HM BHOLA
+
+### PROCEDURAL ANIMATION • CREATIVE ENGINEERING • PYTHON
+
+**A Festival of Lights. An Orchestra of Particles. A World Built Through Code.**
+
+<br>
+
+<img src="https://img.shields.io/badge/PROJECT-DIWALI%20CINEMATIC-D4AF37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILT%20WITH-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GRAPHICS-PYGAME-00A86B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/COMPUTING-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 <br><br>
 
-**Where Mathematics Meets Art, and Code Becomes Celebration.**
-
-A cinematic Diwali experience engineered entirely through Python.
-
-*No stock footage. No pre-rendered visuals. No external audio assets.*
-
-**Every particle. Every flame. Every light. Every sound. Generated through code.**
-
-<br>
-
-<a href="https://github.com/hmbholamajhi-eng">
-<img src="https://img.shields.io/badge/GitHub-HM%20BHOLA-181717?style=flat-square&logo=github" />
-</a>
+[**EXPLORE SOURCE CODE**](https://github.com/hmbholamajhi-eng/DIWALI-CINEMATIC-FIREWORKS)
+&nbsp; • &nbsp;
+[**DEVELOPER PROFILE**](https://github.com/hmbholamajhi-eng)
 
 </div>
 
 ---
 
-# 🪔 01. PROJECT OVERVIEW
+# Ⅰ. THE VISION
 
-**DIWALI CINEMATIC** is a fully procedural animation project that transforms mathematical calculations, programming logic, and creative engineering into a cinematic festival experience.
+> What happens when mathematics becomes art, particles become fireworks, and programming becomes a celebration?
 
-Designed as a 60-second vertical film, the project combines particle simulation, dynamic illumination, procedural audio synthesis, geometric animation, and cinematic camera movements.
+**DIWALI CINEMATIC** is an experimental procedural animation project that transforms Python code into a cinematic celebration of India's festival of lights.
 
-The entire experience is generated programmatically using Python.
+It combines mathematical geometry, particle simulations, dynamic lighting, procedural audio synthesis and cinematic storytelling into a single animated experience.
+
+This is not a collection of pre-rendered scenes assembled into a video.
+
+The visual world is generated programmatically.
+
+Every flame, particle, explosion, rangoli pattern and sound effect is produced through code.
+
+### THE CORE CONCEPT
+
+| Dimension | Specification |
+|:---|:---|
+| Project Type | Procedural Cinematic Animation |
+| Primary Language | Python |
+| Graphics Engine | Pygame |
+| Numerical Computing | NumPy |
+| Audio | Procedurally Generated |
+| Duration | Approximately 60 seconds |
+| Resolution | 1080 × 1920 |
+| Aspect Ratio | 9:16 |
+| Target Frame Rate | 30 FPS |
+| Export Format | MP4 |
+
+---
+
+# Ⅱ. THE CINEMATIC UNIVERSE
 
 <div align="center">
 
-| 🎬 Duration | 📱 Format | 🎨 Rendering | 🔊 Audio |
-|:---:|:---:|:---:|:---:|
-| ~60 Seconds | 9:16 Vertical | Procedural | Generated |
-
-| 🖥️ Resolution | 🎞️ FPS Target | ⚙️ Engine |
-|:---:|:---:|:---:|
-| 1080 × 1920 | 30 FPS | Pygame |
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:150D02,50:805500,100:D4AF37&text=FOUR%20ACTS.%20ONE%20CELEBRATION.&fontSize=25&fontColor=FFF4D0" width="100%" />
 
 </div>
 
----
+### ACT I — THE AWAKENING
 
-# ⚡ 02. TECHNOLOGY STACK
+**Darkness → Light**
 
-<div align="center">
+Silence. Darkness. A single diya.
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+The first flame illuminates the surrounding environment. Gradually, more diyas awaken, transforming a dark courtyard into a warm, glowing celebration.
 
-<br>
+**Visual language:** Atmospheric darkness, flame illumination and environmental light propagation.
 
-<img src="https://img.shields.io/badge/Python-Core%20Logic-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pygame-Graphics%20Engine-00A86B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/FFmpeg-Video%20Export-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+### ACT II — THE GEOMETRY OF TRADITION
 
-</div>
+**Mathematics → Mandala**
 
-| Technology | Implementation |
-|---|---|
-| Python | Core application and animation logic |
-| Pygame | Graphics, rendering and real-time animation |
-| NumPy | Numerical computation and mathematical operations |
-| imageio-ffmpeg | MP4 video exporting |
+A spectacular rangoli begins forming from its centre.
 
----
+More than 100 visual layers expand outward, creating a complex geometric mandala inspired by traditional Indian rangoli.
 
-# 🎥 03. THE CINEMATIC EXPERIENCE
+**Visual language:** Radial geometry, colour transitions and layered particle generation.
 
-The film follows four carefully structured visual sequences.
+### ACT III — THE SKY COMES ALIVE
 
-### 01 — THE FIRST LIGHT
+**Particles → Fireworks**
 
-**Darkness → Illumination**
+Rockets rise behind the temple skyline.
 
-The journey begins in complete darkness.
+The night transforms into a dynamic fireworks spectacle.
 
-A single diya illuminates the environment. Gradually, additional diyas light up the courtyard, creating a warm cinematic atmosphere.
+| Firework | Visual Character |
+|:---|:---|
+| Peony | Expanding spherical explosion |
+| Ring | Circular particle formation |
+| Willow | Falling, trailing sparks |
+| Crackle | Irregular particle bursts |
+| Heart | Heart-shaped explosion |
 
-### 02 — THE RANGOLI AWAKENS
+**Visual language:** Particle physics, explosion patterns and dynamic illumination.
 
-**Mathematics → Visual Art**
+### ACT IV — THE GOLDEN SIGNATURE
 
-A complex mandala-inspired rangoli emerges from the centre.
+**Celebration → Identity**
 
-Featuring more than 100 visual layers, coloured powder expands outward to create an intricate geometric pattern inspired by traditional Indian art.
+The cinematic sequence reaches its climax with a massive golden explosion.
 
-### 03 — THE FIREWORKS SYMPHONY
-
-**Particles → Celebration**
-
-Rockets launch behind an illuminated temple skyline.
-
-Firework patterns include:
-
-- 🎆 Peony
-- 🎆 Ring
-- 🎆 Willow
-- 🎆 Crackle
-- ❤️ Heart-shaped explosions
-
-Each explosion combines particle movement, colour variation, and dynamic illumination.
-
-### 04 — THE GOLDEN FINALE
-
-**Light → Celebration**
-
-A massive golden fireworks explosion transforms its sparks into:
+Thousands of visual sparks converge to form:
 
 <div align="center">
 
 # ✨ HAPPY DIWALI ✨
 
-*A cinematic celebration of the festival of lights.*
+**A celebration written in light.**
 
 </div>
 
 ---
 
-# 🌟 04. ENGINEERING & VISUAL FEATURES
+# Ⅲ. THE ENGINEERING INSIDE
 
-### Graphics Engine
+This project brings together multiple programming and graphics concepts.
 
-- Procedural visual generation.
-- Dynamic light-map system.
+### 01 — PROCEDURAL GRAPHICS
+
+- Mathematical visual generation.
 - Particle-based animation.
+- Dynamic colour variation.
 - Multi-layered rangoli generation.
 - Procedural fireworks simulation.
+
+### 02 — DYNAMIC ILLUMINATION
+
+- Dynamic light-map system.
+- Diya-based lighting.
+- Fireworks illumination.
 - Glowing temple windows.
-- Animated sky lanterns.
+- Environmental lighting effects.
 
-### Cinematic Rendering
+### 03 — CINEMATIC CAMERA SYSTEM
 
-- Camera tilt-up and pull-back movements.
+- Tilt-up camera movement.
+- Pull-back camera movement.
 - Camera shake during explosions.
-- Bloom and glow effects.
 - Cinematic vignette.
 - Film grain.
-- Dynamic environmental illumination.
+- Bloom and glow effects.
 
-### Procedural Audio Engine
+### 04 — PROCEDURAL AUDIO
 
-The soundtrack is generated programmatically without external audio files.
+The soundtrack is generated programmatically.
+
+It includes:
 
 - Temple bells synchronized with diya lighting.
 - Atmospheric drone pads.
@@ -158,13 +164,43 @@ The soundtrack is generated programmatically without external audio files.
 - Crackling particle effects.
 - Golden finale chord.
 
-### Personal Branding
+### 05 — VISUAL IDENTITY
 
-The **HM BHOLA** watermark remains visible in the top-left and bottom-right corners throughout the animation.
+The HM BHOLA watermark appears in the top-left and bottom-right corners throughout the animation.
 
 ---
 
-# 🏗️ 05. PROJECT ARCHITECTURE
+# Ⅳ. SYSTEM ARCHITECTURE
+
+The project is organized into dedicated modules to separate application execution, configuration, visual generation and sound generation.
+
+```mermaid
+flowchart TD
+    A["DIWALI CINEMATIC"] --> B["main.py"]
+    B --> C["config.py"]
+    B --> D["world.py"]
+    B --> E["audio.py"]
+
+    C --> F["Animation Configuration"]
+    C --> G["Fireworks Schedule"]
+
+    D --> H["Visual Environment"]
+    D --> I["Particle Effects"]
+    D --> J["Rangoli & Fireworks"]
+
+    E --> K["Procedural Sound"]
+    E --> L["Temple Bells & Explosions"]
+
+    H --> M["Cinematic Rendering"]
+    I --> M
+    J --> M
+    K --> N["Audio Output"]
+
+    M --> O["Live Playback / MP4 Export"]
+    N --> O
+```
+
+### PROJECT STRUCTURE
 
 ```text
 DIWALI-CINEMATIC/
@@ -179,38 +215,62 @@ DIWALI-CINEMATIC/
     └── README.md
 ```
 
-| File | Responsibility |
-|---|---|
-| `main.py` | Application entry point and execution |
-| `config.py` | Configuration and animation settings |
-| `world.py` | Environment and visual generation |
+| Module | Engineering Responsibility |
+|:---|:---|
+| `main.py` | Main execution and application control |
+| `config.py` | Animation parameters and configuration |
+| `world.py` | Environment, visual elements and animation |
 | `audio.py` | Procedural soundtrack and sound generation |
 | `requirements.txt` | Dependency management |
-| `README.md` | Project documentation |
 
 ---
 
-# ⚙️ 06. INSTALLATION & SETUP
+# Ⅴ. TECHNOLOGY ECOSYSTEM
 
-### Prerequisites
+<div align="center">
 
-- Python 3.11 or compatible version.
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PYTHON-Core%20Logic-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PYGAME-Graphics%20Engine-00A86B?style=flat-square" />
+<img src="https://img.shields.io/badge/NUMPY-Numerical%20Computing-013243?style=flat-square&logo=numpy" />
+<img src="https://img.shields.io/badge/IMAGEIO--FFMPEG-Video%20Export-FF6600?style=flat-square" />
+
+</div>
+
+| Technology | Purpose |
+|:---|:---|
+| Python | Core programming and application logic |
+| Pygame | Rendering, animation and graphics |
+| NumPy | Numerical operations and mathematical computations |
+| imageio-ffmpeg | MP4 video exporting |
+
+---
+
+# Ⅵ. INSTALLATION & DEPLOYMENT
+
+### SYSTEM REQUIREMENTS
+
+- Python 3 installed.
 - pip package manager.
-- Compatible desktop environment for Pygame.
+- Compatible desktop environment.
+- Sufficient processing resources for cinematic rendering.
 
-### Step 01 — Clone Repository
+### STEP 01 — CLONE
 
 ```bash
 git clone https://github.com/hmbholamajhi-eng/DIWALI-CINEMATIC-FIREWORKS.git
 ```
 
-### Step 02 — Navigate to Project
+### STEP 02 — NAVIGATE
 
 ```bash
 cd DIWALI-CINEMATIC-FIREWORKS/Diwali_Cinematic_HM_BHOLA
 ```
 
-### Step 03 — Create Virtual Environment (Recommended)
+### STEP 03 — CREATE VIRTUAL ENVIRONMENT
 
 ```bash
 python -m venv venv
@@ -222,7 +282,7 @@ Activate on Windows:
 venv\Scripts\activate
 ```
 
-### Step 04 — Install Dependencies
+### STEP 04 — INSTALL DEPENDENCIES
 
 ```bash
 pip install -r requirements.txt
@@ -234,147 +294,210 @@ Alternatively:
 pip install pygame numpy imageio-ffmpeg
 ```
 
-> **Note:** `imageio-ffmpeg` is only required for MP4 video exporting.
+> `imageio-ffmpeg` is only required for MP4 exporting.
 
 ---
 
-# 🚀 07. EXECUTION MODES
+# Ⅶ. EXECUTION & RENDERING
 
-### Real-Time Cinematic Playback
+### LIVE CINEMATIC MODE
 
 ```bash
 python main.py
 ```
 
-Launch the complete animation with sound.
+Launch the animation with sound.
 
-### Low-Quality Mode
+### PERFORMANCE MODE
 
 ```bash
 python main.py --quality low
 ```
 
-Designed for systems with limited processing capabilities.
+Use lighter visual effects for slower computers.
 
-### Cinematic Video Export
+### CINEMATIC EXPORT MODE
 
 ```bash
 python main.py --render
 ```
 
-Exports the cinematic animation as an MP4 video.
+Generate the complete MP4 cinematic.
 
-### Custom Export Filename
+### CUSTOM VIDEO EXPORT
 
 ```bash
 python main.py --render my.mp4
 ```
 
-### Default Export Specifications
+### EXPORT SPECIFICATIONS
 
-| Parameter | Specification |
-|---|---|
+| Parameter | Value |
+|:---|:---|
 | Resolution | 1080 × 1920 |
 | Aspect Ratio | 9:16 |
 | Frame Rate | 30 FPS target |
-| Format | MP4 |
+| Container | MP4 |
 | Audio | Included |
 | Duration | Approximately 60 seconds |
 
-The renderer targets a consistent 30 FPS output independently of real-time playback speed. Actual rendering performance depends on hardware.
+The renderer targets a consistent 30 FPS output independently of real-time playback speed. Actual export performance depends on hardware.
 
 ---
 
-# 🎮 08. KEYBOARD CONTROLS
+# Ⅷ. CONTROL INTERFACE
 
-| Key | Action |
-|---|---|
+| Keyboard | Operation |
+|:---:|:---|
 | `ESC` | Exit application |
 | `SPACE` | Restart animation |
 | `F` | Toggle fullscreen |
 
 ---
 
-# 🎨 09. CUSTOMIZATION
+# Ⅸ. CUSTOMIZATION LAB
 
-The animation can be customized through the configuration and world-generation modules.
+The project provides configuration and visual modules for modifying its cinematic presentation.
 
-### `config.py`
+### CONFIGURATION — `config.py`
 
-| Parameter | Purpose |
-|---|---|
+| Variable / Function | Purpose |
+|:---|:---|
 | `BRAND` | Branding and footer text |
-| `T_TEXT` | Timing of the cinematic finale |
-| `make_fireworks()` | Firework schedule, positions, types and colours |
+| `T_TEXT` | Finale timing |
+| `make_fireworks()` | Fireworks schedule, positions, types and colours |
 
-### `world.py`
+### VISUAL GENERATION — `world.py`
 
-Customize the final cinematic title:
+Customize the final title:
 
 - `HAPPY`
 - `DIWALI`
 - Subtitle
 
-The project separates configuration, visual generation, audio synthesis, and application execution into dedicated modules.
+Modify the project's configuration and visual elements to create a different presentation.
 
 ---
 
-# 🧠 10. DEVELOPMENT PHILOSOPHY
+# Ⅹ. PERFORMANCE & OPTIMIZATION
 
-This project explores the intersection of programming, mathematics, digital art, and cinematic storytelling.
+The project provides two primary execution modes.
 
-Its development demonstrates how:
+| Mode | Intended Use |
+|:---|:---|
+| Normal | Full real-time cinematic experience |
+| Low Quality | Lighter playback on slower computers |
+| Render | MP4 video generation |
 
-- Mathematical geometry can generate complex visual patterns.
-- Particle systems can simulate fireworks and environmental effects.
-- Dynamic lighting can create atmospheric environments.
-- Procedural audio can construct a complete soundtrack.
-- Python can be used as a creative medium beyond conventional software applications.
+For the best cinematic export experience:
 
-**The objective: Build an entire cinematic celebration through code instead of assembling it from pre-existing media assets.**
+```bash
+python main.py --render
+```
+
+For lighter real-time playback:
+
+```bash
+python main.py --quality low
+```
 
 ---
 
-# 👨‍💻 11. AUTHOR & BRAND IDENTITY
+# Ⅺ. VISUAL SHOWCASE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1005,50:6A410C,100:D4AF37&height=120&text=HM%20BHOLA&fontSize=40&fontColor=FFF5D6&animation=fadeIn" width="100%" />
+**THE WORLD OF DIWALI CINEMATIC**
+
+</div>
+
+<!--
+After capturing actual screenshots from your project, add them here.
+
+Suggested assets:
+assets/diya-scene.png
+assets/rangoli-scene.png
+assets/fireworks-scene.png
+assets/finale-scene.png
+assets/diwali-preview.gif
+
+Example:
+![Cinematic Preview](assets/diwali-preview.gif)
+-->
+
+To make this section truly impressive, add a short GIF showing the transition from the first diya to the golden finale.
+
+A real project preview is much more valuable than decorative stock images.
+
+---
+
+# Ⅻ. ENGINEERING PHILOSOPHY
+
+**Not everything needs a pre-made asset. Sometimes the best asset is an algorithm.**
+
+DIWALI CINEMATIC explores the creative potential of combining:
+
+- Mathematical geometry.
+- Procedural visual generation.
+- Particle simulations.
+- Dynamic illumination.
+- Audio synthesis.
+- Cinematic storytelling.
+
+The central idea is to transform programming logic into an artistic experience.
+
+This project represents an exploration of Python beyond conventional application development.
+
+---
+
+# XIII. AUTHOR & CREATOR
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0:090909,35:352000,70:956000,100:D4AF37&text=HM%20BHOLA&fontSize=53&fontColor=FFF4D0&animation=fadeIn" width="100%" />
 
 ### HM BHOLA
 
 **Python Developer · Creative Technology Enthusiast**
 
-Building ideas through code, logic, mathematics, and imagination.
+Building ideas through logic, mathematics, programming and imagination.
 
 <br>
 
 <a href="https://github.com/hmbholamajhi-eng">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VISIT%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# ❤️ 12. FINAL WORD
-
-A celebration of Indian culture, expressed through programming.
-
-From a single diya to thousands of glowing particles, every frame represents the creative possibilities of software engineering.
+# XIV. PROJECT CLOSING
 
 <div align="center">
 
-## 🪔 HAPPY DIWALI 🪔
+## 🪔 LET THERE BE LIGHT.
 
-**LET THERE BE LIGHT. LET THERE BE CODE.**
+## LET THERE BE CODE.
+
+### HAPPY DIWALI!
+
+**Made with ❤️, Python, Mathematics & Imagination.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:B87916,100:120C05&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:080808,35:3D2600,70:B87916,100:FFD700&section=footer" width="100%" />
 
-**© HM BHOLA · DIWALI CINEMATIC**
+**DIWALI CINEMATIC · AN INDEPENDENT PROJECT BY HM BHOLA**
 
-*An independent procedural animation project.*
+© HM BHOLA
+
+</div>
+
+---
+
+<div align="center">
+
+*Code is the medium. Mathematics is the language. Imagination is the limit.*
 
 </div>
